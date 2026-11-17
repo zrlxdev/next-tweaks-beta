@@ -1,24 +1,36 @@
-# Next Tweaks — préversions / pre-releases
+# Next Tweaks — téléchargements / downloads
 
-**FR —** Ce dépôt contient uniquement les **préversions (bêtas) de Next Tweaks** destinées aux bêta-testeurs du
-Discord officiel. Il ne contient pas le code source. Les fichiers se trouvent dans le dossier de chaque version (liens directs ci-dessous).
+**FR —** Ce dépôt héberge les **fichiers d'installation de Next Tweaks** : les versions stables, proposées sur le site
+officiel, et les préversions (bêtas) destinées aux bêta-testeurs du Discord. Il ne contient pas le code source.
 
-- Ce sont des versions de test : elles peuvent contenir des bugs. Installez-les seulement sur un PC où vous acceptez
-  ce risque, de préférence après un point de restauration Windows.
+- **Téléchargez de préférence depuis le site officiel** : <https://next-tweaks.onrender.com/fr/telecharger>. Il
+  renvoie vers ces mêmes fichiers.
+- Les bêtas sont des versions de test : elles peuvent contenir des bugs. Installez-les seulement sur un PC où vous
+  acceptez ce risque, de préférence après un point de restauration Windows.
 - **Vérifiez l'empreinte SHA-256** avant d'ouvrir un fichier : `Get-FileHash .\NomDuFichier` dans PowerShell, à
-  comparer avec [SHA256SUMS.txt](SHA256SUMS.txt) et avec le message du build sur Discord.
+  comparer avec [SHA256SUMS.txt](SHA256SUMS.txt) et avec la page Télécharger du site.
 - Les fichiers ne sont pas encore signés numériquement : Windows SmartScreen peut afficher un avertissement.
-- Version stable, documentation et support : <https://next-tweaks.onrender.com/fr/>
 
-**EN —** This repository only holds **Next Tweaks pre-releases (betas)** for the beta testers of the official
-Discord. It does not contain the source code. Files are in each version's folder (direct links below).
+**EN —** This repository hosts the **Next Tweaks installation files**: stable releases, offered on the official
+website, and pre-releases (betas) for the beta testers of the Discord. It does not contain the source code.
 
-- These are test builds: they may contain bugs. Only install them on a PC where you accept that risk, ideally after
+- **Download from the official website when you can**: <https://next-tweaks.onrender.com/en/download>. It links to
+  these same files.
+- Betas are test builds: they may contain bugs. Only install them on a PC where you accept that risk, ideally after
   creating a Windows restore point.
 - **Check the SHA-256 hash** before opening a file: `Get-FileHash .\FileName` in PowerShell, compared with
-  [SHA256SUMS.txt](SHA256SUMS.txt) and with the build post on Discord.
+  [SHA256SUMS.txt](SHA256SUMS.txt) and with the website's Download page.
 - The files aren't digitally signed yet: Windows SmartScreen may show a warning.
-- Stable release, documentation and support: <https://next-tweaks.onrender.com/en/>
+
+## 2.1.0 (version stable / stable release)
+
+| Fichier / File | SHA-256 |
+|---|---|
+| [NextTweaks-Setup-fr-FR.msi](https://github.com/zrlxdev/next-tweaks-beta/raw/main/2.1.0/NextTweaks-Setup-fr-FR.msi) | `1c0258412961ec9f36761c9d3996771ea9034ef36f5004d066142128b9b1ba06` |
+| [NextTweaks-Setup-en-US.msi](https://github.com/zrlxdev/next-tweaks-beta/raw/main/2.1.0/NextTweaks-Setup-en-US.msi) | `dd66952d28d16cb502a3d4639e4ba8ad6acfd4b2506fbd83543531fa5a803959` |
+| [NextTweaks.exe](https://github.com/zrlxdev/next-tweaks-beta/raw/main/2.1.0/NextTweaks.exe) (portable) | `ce27e4fadf3a607aba9c7d04693e6a24dd6baf79f07b14619ccf0117fac120f5` |
+
+Notes de version / Release notes: <https://next-tweaks.onrender.com/fr/nouveautes#v2.1.0> · <https://next-tweaks.onrender.com/en/changelog#v2.1.0>
 
 ## 2.0.0 bêta 1 / beta 1
 
