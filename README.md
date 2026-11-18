@@ -22,7 +22,17 @@ website, and pre-releases (betas) for the beta testers of the Discord. It does n
   [SHA256SUMS.txt](SHA256SUMS.txt) and with the website's Download page.
 - The files aren't digitally signed yet: Windows SmartScreen may show a warning.
 
-## 2.1.0 (version stable / stable release)
+## 2.2.0 (version stable / stable release)
+
+| Fichier / File | SHA-256 |
+|---|---|
+| [NextTweaks-Setup-fr-FR.msi](https://github.com/zrlxdev/next-tweaks-beta/raw/main/2.2.0/NextTweaks-Setup-fr-FR.msi) | `b16f29461842776cfdada02d9485f4a5dfb8333d955eb7b240fa853a586e2a2a` |
+| [NextTweaks-Setup-en-US.msi](https://github.com/zrlxdev/next-tweaks-beta/raw/main/2.2.0/NextTweaks-Setup-en-US.msi) | `93fee8f1aa64e8945ef851339f5fa4dec31aa88db5da6487463a7e56238a746a` |
+| [NextTweaks.exe](https://github.com/zrlxdev/next-tweaks-beta/raw/main/2.2.0/NextTweaks.exe) (portable) | `27e2a54bbb474e3b1357d209d3b84572bdd5de7c1c98f1ef4c95e93aa8a91218` |
+
+Notes de version / Release notes: <https://next-tweaks.onrender.com/fr/nouveautes#v2.2.0> · <https://next-tweaks.onrender.com/en/changelog#v2.2.0>
+
+## 2.1.0 (version précédente / previous release)
 
 | Fichier / File | SHA-256 |
 |---|---|

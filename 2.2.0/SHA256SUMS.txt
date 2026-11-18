@@ -1,0 +1,3 @@
+93fee8f1aa64e8945ef851339f5fa4dec31aa88db5da6487463a7e56238a746a  NextTweaks-Setup-en-US.msi
+b16f29461842776cfdada02d9485f4a5dfb8333d955eb7b240fa853a586e2a2a  NextTweaks-Setup-fr-FR.msi
+27e2a54bbb474e3b1357d209d3b84572bdd5de7c1c98f1ef4c95e93aa8a91218  NextTweaks.exe

@@ -1,3 +1,6 @@
+b16f29461842776cfdada02d9485f4a5dfb8333d955eb7b240fa853a586e2a2a  2.2.0/NextTweaks-Setup-fr-FR.msi
+93fee8f1aa64e8945ef851339f5fa4dec31aa88db5da6487463a7e56238a746a  2.2.0/NextTweaks-Setup-en-US.msi
+27e2a54bbb474e3b1357d209d3b84572bdd5de7c1c98f1ef4c95e93aa8a91218  2.2.0/NextTweaks.exe
 1c0258412961ec9f36761c9d3996771ea9034ef36f5004d066142128b9b1ba06  2.1.0/NextTweaks-Setup-fr-FR.msi
 dd66952d28d16cb502a3d4639e4ba8ad6acfd4b2506fbd83543531fa5a803959  2.1.0/NextTweaks-Setup-en-US.msi
 ce27e4fadf3a607aba9c7d04693e6a24dd6baf79f07b14619ccf0117fac120f5  2.1.0/NextTweaks.exe
